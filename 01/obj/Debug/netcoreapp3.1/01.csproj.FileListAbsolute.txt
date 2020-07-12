@@ -1,0 +1,26 @@
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.exe
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.deps.json
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.json
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.dev.json
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.dll
+B:\CSharp Works\01\bin\Debug\netcoreapp3.1\01.pdb
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.csprojAssemblyReference.cache
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.AssemblyInfoInputs.cache
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.AssemblyInfo.cs
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.csproj.CoreCompileInputs.cache
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.dll
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.pdb
+B:\CSharp Works\01\obj\Debug\netcoreapp3.1\01.genruntimeconfig.cache
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.exe
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.deps.json
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.json
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.dev.json
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.dll
+B:\CSharp-Works\01\bin\Debug\netcoreapp3.1\01.pdb
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.csprojAssemblyReference.cache
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.AssemblyInfoInputs.cache
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.AssemblyInfo.cs
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.dll
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.pdb
+B:\CSharp-Works\01\obj\Debug\netcoreapp3.1\01.genruntimeconfig.cache
