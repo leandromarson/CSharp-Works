@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\CSharp Works\\03\\03.csproj": {}
+    "B:\\CSharp-Works\\03\\03.csproj": {}
   },
   "projects": {
-    "B:\\CSharp Works\\03\\03.csproj": {
+    "B:\\CSharp-Works\\03\\03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\CSharp Works\\03\\03.csproj",
+        "projectUniqueName": "B:\\CSharp-Works\\03\\03.csproj",
         "projectName": "03",
-        "projectPath": "B:\\CSharp Works\\03\\03.csproj",
+        "projectPath": "B:\\CSharp-Works\\03\\03.csproj",
         "packagesPath": "C:\\Users\\Killer\\.nuget\\packages\\",
-        "outputPath": "B:\\CSharp Works\\03\\obj\\",
+        "outputPath": "B:\\CSharp-Works\\03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Killer\\AppData\\Roaming\\NuGet\\NuGet.Config"
