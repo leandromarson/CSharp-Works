@@ -10,6 +10,7 @@ namespace _03
             Console.BackgroundColor = ConsoleColor.DarkGray;
             Console.WindowHeight = 20;//40 lines
             Console.Title = "CHOICUS!";
+
             Console.WriteLine("PAY MY MONEY $10 CONTOS!");
             int money = Convert.ToInt32(Console.ReadLine());
             
@@ -91,7 +92,7 @@ namespace _03
 
             Console.WriteLine("YOU HAVE $"+money+"!!!");
 
-
+            
 
             Console.ReadKey();
 
