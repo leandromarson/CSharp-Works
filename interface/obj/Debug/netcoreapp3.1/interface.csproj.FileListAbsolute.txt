@@ -1,0 +1,13 @@
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.exe
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.deps.json
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.runtimeconfig.json
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.runtimeconfig.dev.json
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.dll
+B:\CSharp-Works\interface\bin\Debug\netcoreapp3.1\interface.pdb
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.csprojAssemblyReference.cache
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfoInputs.cache
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfo.cs
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.dll
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.pdb
+B:\CSharp-Works\interface\obj\Debug\netcoreapp3.1\interface.genruntimeconfig.cache
