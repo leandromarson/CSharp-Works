@@ -1,0 +1,13 @@
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.exe
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.deps.json
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.runtimeconfig.json
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.runtimeconfig.dev.json
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.dll
+B:\CSharp-Works\enum\bin\Debug\netcoreapp3.1\enum.pdb
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.csprojAssemblyReference.cache
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.dll
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.pdb
+B:\CSharp-Works\enum\obj\Debug\netcoreapp3.1\enum.genruntimeconfig.cache
