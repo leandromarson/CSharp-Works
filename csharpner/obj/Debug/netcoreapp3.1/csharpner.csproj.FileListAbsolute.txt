@@ -1,0 +1,13 @@
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.exe
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.deps.json
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.runtimeconfig.json
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.runtimeconfig.dev.json
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.dll
+B:\CSharp-Works\csharpner\bin\Debug\netcoreapp3.1\csharpner.pdb
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.csprojAssemblyReference.cache
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.AssemblyInfoInputs.cache
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.AssemblyInfo.cs
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.dll
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.pdb
+B:\CSharp-Works\csharpner\obj\Debug\netcoreapp3.1\csharpner.genruntimeconfig.cache
