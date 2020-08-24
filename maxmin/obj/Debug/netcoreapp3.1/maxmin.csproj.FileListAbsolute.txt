@@ -1,0 +1,13 @@
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.exe
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.deps.json
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.runtimeconfig.json
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.runtimeconfig.dev.json
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.dll
+B:\CSharp-Works\maxmin\bin\Debug\netcoreapp3.1\maxmin.pdb
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.csprojAssemblyReference.cache
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.AssemblyInfoInputs.cache
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.AssemblyInfo.cs
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.dll
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.pdb
+B:\CSharp-Works\maxmin\obj\Debug\netcoreapp3.1\maxmin.genruntimeconfig.cache
