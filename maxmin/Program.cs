@@ -6,72 +6,33 @@ namespace maxmin
     {
         static void Main(string[] args)
         {
-            char maxChar = char.MaxValue;
-            char minChar = char.MinValue;
-                        
-            sbyte maxSByte = sbyte.MaxValue;
-            sbyte minSByte = sbyte.MinValue;
+            Char rangeChar = new Char();
+            SByte rangeSByte = new SByte();
+            Byte rangeByte = new Byte();
+            Short rangeShort = new Short();
+            UShort rangeUShort = new UShort();
+            Int rangeInt = new Int();
+            UInt rangeUInt = new UInt();
+            Long rangeLong = new Long();
+            ULong rangeULong = new ULong();
+            Float rangeFloat = new Float();
+            Double rangeDouble = new Double();
+            Decimal rangeDecimal = new Decimal();
 
-            byte maxByte = byte.MaxValue;
-            byte minByte = byte.MinValue;
-
-            short maxShort = short.MaxValue;
-            short minShort = short.MinValue;
-
-            ushort maxUShort = ushort.MaxValue;
-            ushort minUShort = ushort.MinValue;
-
-            int maxInt = int.MaxValue;
-            int minInt = int.MinValue;
-
-            uint maxUInt = uint.MaxValue;
-            uint minUInt = uint.MinValue;
-
-            long maxLong = long.MaxValue;
-            long minLong = long.MinValue;
+            rangeChar.rPrint();
+            rangeSByte.rPrint();
+            rangeByte.rPrint();
+            rangeShort.rPrint();
+            rangeUShort.rPrint();
+            rangeInt.rPrint();
+            rangeUInt.rPrint();
+            rangeLong.rPrint();
+            rangeULong.rPrint();
+            rangeFloat.rPrint();
+            rangeDouble.rPrint();
+            rangeDecimal.rPrint();
             
-            float maxFloat = float.MaxValue;
-            float minFloat = float.MinValue;
-
-            double maxDouble = double.MaxValue;
-            double minDouble = double.MinValue;
-
-            decimal maxDecimal = decimal.MaxValue;
-            decimal minDecimal = decimal.MinValue;
-
-            System.Console.WriteLine($"Char range value: {minChar} to {maxChar}\n");
-
-            System.Console.WriteLine($"SByte range value: {minSByte} to {maxSByte}\n");
-
-            System.Console.WriteLine($"Byte range value: {minByte} to {maxByte}\n");
-
-            System.Console.WriteLine($"Short range value: {minShort} to {maxShort}\n");
-
-            System.Console.WriteLine($"UShort range value: {minUShort} to {maxUShort}\n");
-
-            System.Console.WriteLine($"Int range value: {minInt} to {maxInt}\n");
-
-            System.Console.WriteLine($"UInt range value: {minUInt} to {maxUInt}\n");
-
-            System.Console.WriteLine($"Long range value: {minLong} to {maxLong}\n");
-
-            System.Console.WriteLine($"Float range value: {minFloat} to {maxFloat}\n ");
-
-            System.Console.WriteLine($"Double range value: {minDouble} to {maxDouble}\n ");
-
-            System.Console.WriteLine($"Decimal range value: {minDecimal} to {maxDecimal}\n ");
-
-            double a = 1.0;
-            double b = 3.0;
-            Console.WriteLine(a / b);
-
-            decimal c = 1.0M;
-            decimal d = 3.0M;
-            Console.WriteLine(c / d);
-
-
             Console.ReadKey();
-
 
         }
     }
