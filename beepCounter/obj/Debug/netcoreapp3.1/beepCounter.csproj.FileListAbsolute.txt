@@ -1,0 +1,13 @@
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.csprojAssemblyReference.cache
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.AssemblyInfoInputs.cache
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.AssemblyInfo.cs
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.csproj.CoreCompileInputs.cache
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.exe
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.deps.json
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.runtimeconfig.json
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.runtimeconfig.dev.json
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.dll
+B:\CSharp-Works\beepCounter\bin\Debug\netcoreapp3.1\beepCounter.pdb
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.dll
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.pdb
+B:\CSharp-Works\beepCounter\obj\Debug\netcoreapp3.1\beepCounter.genruntimeconfig.cache
