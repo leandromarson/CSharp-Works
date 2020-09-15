@@ -16,7 +16,7 @@ namespace beepCounter
             {
                 System.Console.WriteLine("Begin\n");
                 System.Threading.Thread.Sleep(1000);
-                for (Int32 i = 37; i < len; i++)
+                for (Int32 i = 37; i <= len; i++)
                 {
                     System.Console.WriteLine($"Frequency: {i}");
                     Console.Beep(i, 1000);
